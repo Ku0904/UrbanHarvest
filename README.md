@@ -98,10 +98,6 @@ Here are listed all available API endpoints along with a brief description of ea
 - `GET /api/order/list`: get orders of all users in admin pannel
 - `POST /api/order/status`: update status of all orders
 
-## Admin Pannel Preview
-
-![Admin-Pannel](frontend/src/assets/merneats-admin-thumbnail.png)
-
 ## 👤 Developer
 
 [Kunal Rawat](https://github.com/Ku0904)
