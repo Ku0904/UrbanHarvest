@@ -16,4 +16,4 @@ export const assets = {
   all_order_items,
 };
 
-export const url = "http://localhost:3000";
+export const url = "https://urbanharvest.onrender.com";
