@@ -1,0 +1,12 @@
+{
+  "name": "urbanharvest",
+  "version": "1.0.0",
+  "scripts": {
+    "install:all": "npm install --prefix frontend && npm install --prefix backend && npm install --prefix admin",
+    "build:all": "npm run build --prefix frontend && npm run build --prefix backend && npm run build --prefix admin",
+    "start:frontend": "npm start --prefix frontend",
+    "start:backend": "npm start --prefix backend",
+    "start:admin": "npm start --prefix admin"
+  },
+  "dependencies": {}
+}
